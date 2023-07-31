@@ -1,0 +1,91 @@
+{
+    "users":
+    [
+        {
+            "id": 1,
+            "name": "Maria",
+            "email": "maria@gmail.com",
+            "password": "12345",
+            "avatar": "https://depor.com/resizer/CeJO5MssLNlQ7i6Ty30J5JZRcLQ=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IJFZ5ZGT2NAJJOWIRBXBUZRSCI.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Elena",
+            "email": "elena@gmail.com",
+            "password": "123",
+            "avatar": "https://depor.com/resizer/CeJO5MssLNlQ7i6Ty30J5JZRcLQ=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IJFZ5ZGT2NAJJOWIRBXBUZRSCI.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Camila",
+            "email": "camila@gmail.com",
+            "password": "1234567",
+            "avatar": "https://depor.com/resizer/CeJO5MssLNlQ7i6Ty30J5JZRcLQ=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IJFZ5ZGT2NAJJOWIRBXBUZRSCI.jpg"
+        }
+
+    ],
+    "alojamiento":[
+        {
+            "id": 1,
+            "name": "apartamento en cartagena",
+            "idCategory":1,
+            "rating":5,
+            "pricebynight": 300000,
+            "image":"https://i.ibb.co/k5NQyrY/descarga.jpg"
+        },
+        {
+            "id": 2,
+            "name": "apartamento en el nevado del ruiz",
+            "idCategory":2,
+            "rating":4.5,
+            "pricebynight": 200000,
+            "image" :"https://i.ibb.co/48wMSLn/descarga-1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "camping en el salto del buey",
+            "idCategory":3,
+            "rating":4,
+            "pricebynight": 100000,
+            "image" :"https://i.ibb.co/48wMSLn/descarga-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "camping en el lago azul",
+            "idCategory":3,
+            "rating":4.1,
+            "pricebynight": 200000,
+            "image" :"https://i.ibb.co/48wMSLn/descarga-1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "habitación en el tairona",
+            "idCategory":1,
+            "rating":4,
+            "pricebynight": 300000,
+            "image":"https://i.ibb.co/nbWXS19/expediav2-2643971-2382171410-916724.jpg"
+        },
+        {
+            "id": 6,
+            "name": "habitación en el cocuy",
+            "idCategory":1,
+            "rating":5,
+            "pricebynight": 150000,
+            "image":"https://i.ibb.co/nbWXS19/expediav2-2643971-2382171410-916724.jpg"
+        }
+    ],
+    "categories":[
+        {
+            "id": 1,
+            "name": "playa"
+        },
+        {
+            "id": 2,
+            "name": "montaña"
+        },
+        {
+            "id": 3,
+            "name": "camping"
+        }
+    ]
+}
